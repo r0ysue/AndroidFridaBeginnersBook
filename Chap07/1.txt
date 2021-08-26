@@ -1,0 +1,4 @@
+android hooking watch class com.android.okhttp.internal.huc.HttpURLConnectionImpl
+android hooking watch class com.bumptech.glide.load.data.HttpUrlFetcher$DefaultHttpUrlConnectionFactory
+android hooking watch class com.bumptech.glide.load.data.HttpUrlFetcher$HttpUrlConnectionFactory
+android hooking watch class java.net.HttpURLConnection

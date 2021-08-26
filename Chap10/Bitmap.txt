@@ -1,0 +1,14 @@
+android hooking watch class [Landroid.graphics.Bitmap$CompressFormat;
+android hooking watch class [Landroid.graphics.Bitmap$Config;
+android hooking watch class [Landroid.graphics.Bitmap;
+android hooking watch class android.graphics.Bitmap
+android hooking watch class android.graphics.Bitmap$1
+android hooking watch class android.graphics.Bitmap$CompressFormat
+android hooking watch class android.graphics.Bitmap$Config
+android hooking watch class android.graphics.BitmapFactory
+android hooking watch class android.graphics.BitmapFactory$Options
+android hooking watch class android.graphics.BitmapRegionDecoder
+android hooking watch class android.graphics.BitmapShader
+android hooking watch class android.graphics.drawable.BitmapDrawable
+android hooking watch class android.graphics.drawable.BitmapDrawable$BitmapState
+android hooking watch class android.widget.RemoteViews$BitmapCache
